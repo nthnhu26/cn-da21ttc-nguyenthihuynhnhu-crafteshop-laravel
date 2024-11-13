@@ -1,0 +1,334 @@
+:root {
+    --nav-color: #333;
+    --nav-hover-color: #007bff;
+    --nav-font: 'Nunito', sans-serif;
+
+}
+
+/* =================================================================
+# logo
+================================================================= */
+/* Logo Styles */
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand img {
+    height: 40px;
+    width: auto;
+    transition: transform 0.3s ease;
+}
+
+.navbar-brand:hover img {
+    transform: scale(1.05);
+}
+
+/* =================================================================
+# Dark Mode
+================================================================= */
+/* Dark Mode Toggle */
+.theme-toggle {
+    background: none;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.theme-toggle i {
+    font-size: 1.2rem;
+}
+
+body .dark-mode .icon {
+    color: white;
+}
+
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+body.dark-mode .navbar {
+    background-color: #2d2d2d !important;
+}
+
+body.dark-mode .navbar-brand img {
+    filter: brightness(1.2);
+}
+
+body.dark-mode .nav-link {
+    color: #fff !important;
+}
+
+body.dark-mode .dropdown-menu {
+    background-color: #2d2d2d;
+    border-color: #404040;
+}
+
+body.dark-mode .dropdown-item {
+    color: #fff;
+}
+
+body.dark-mode .dropdown-item:hover {
+    background-color: #404040;
+}
+
+body.dark-mode .theme-toggle i {
+    color: white;
+}
+/* Change navbar toggle icon color in dark mode */
+body.dark-mode .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='white' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+body.dark-mode .navbar .nav-link i {
+    color: white; /* Biểu tượng trong navbar */
+}
+
+body.dark-mode .dropdown-item i {
+    color: white; /* Biểu tượng trong dropdown */
+}
+/* =================================================================
+# footer
+================================================================= */
+
+/* Remove the jumbotron's default bottom margin */
+
+.social-icon i {
+    font-size: 2rem;
+    /* Kích thước icon lớn */
+    color: #000000;
+    /* Màu biểu tượng mặc định */
+    transition: color 0.3s ease;
+    /* Hiệu ứng chuyển màu mượt mà khi hover */
+}
+
+.social-icon i:hover {
+    color: #007bff;
+    /* Màu khi hover cho Facebook */
+}
+
+.social-icon:nth-child(2) i:hover {
+    color: #e4405f;
+    /* Màu khi hover cho Instagram */
+}
+
+.social-icon:nth-child(3) i:hover {
+    color: #ff0000;
+    /* Màu khi hover cho YouTube */
+}
+
+.list-unstyled a {
+    color: #000000;
+    text-decoration: none;
+}
+
+/*----------------------------------------------
+    Search 
+----------------------------------------------*/
+.search-container {
+    position: relative;
+    width: 100%;
+}
+
+.search-form input {
+    width: 100%;
+    padding: 8px 35px 8px 15px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.search-form input:focus {
+    border-color: #86b7fe;
+    /* Màu border khi focus - có thể điều chỉnh */
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    /* Thêm glow effect nhẹ */
+}
+
+.search-form .btn {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    background: none;
+    padding: 5px;
+    border-radius: 50%;
+    /* Để tạo hình tròn khi hover */
+    width: 30px;
+    /* Kích thước cố định cho nút */
+    height: 30px;
+    /* Kích thước cố định cho nút */
+    display: flex;
+    /* Để căn giữa icon */
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s;
+    /* Hiệu ứng mượt mà khi hover */
+}
+
+.search-form .btn:hover {
+    background-color: #e9ecef;
+    /* Màu xám nhạt khi hover */
+}
+
+/* Account Dropdown Specific Styles */
+#accountDropdown {
+    min-width: 200px;
+}
+
+/* Search Dropdown Styles */
+.search-container {
+    padding: 0.5rem;
+    left: 0;
+}
+
+.search-form {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.search-form button {
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+}
+
+/*----------------------------------------------------------------
+#Đánh giá
+-----------------------------------------------------------------*/
+.star-rating {
+    direction: rtl;
+    display: inline-block;
+    font-size: 0;
+}
+
+.star-rating input {
+    display: none;
+}
+
+.star-rating label {
+    font-size: 2rem;
+    color: #ddd;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.star-rating input:checked~label {
+    color: #f5b301;
+}
+
+.star-rating label:hover,
+.star-rating label:hover~label {
+    color: #f5b301;
+}
+
+.star-rating label:before {
+    content: '\f005';
+    /* Font Awesome star icon */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+
+
+/* =================================================================
+    # NAVBAR
+================================================================= */
+
+
+@media (min-width: 992px) {
+    .navbar-nav.mx-auto {
+        display: flex;
+        list-style: none;
+        align-items: center;
+    }
+
+    .navbar-nav.mx-auto .nav-item {
+        position: relative;
+        margin-left: 5px;
+    }
+
+    .navbar-nav.mx-auto .nav-link {
+        color: var(--nav-color);
+        padding: 8px 20px;
+        font-size: 14px;
+        font-family: var(--nav-font);
+        font-weight: 400;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        white-space: nowrap;
+        transition: 0.3s;
+        border-radius: 50px;
+    }
+
+    .navbar-nav.mx-auto .nav-item:hover>.nav-link,
+    .navbar-nav.mx-auto .nav-link.active {
+        background-color: var(--nav-hover-color);
+        color: #fff;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-nav.mx-auto .nav-link {
+        color: var(--nav-color);
+        padding: 10px 20px;
+        font-family: var(--nav-font);
+        font-size: 17px;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        white-space: nowrap;
+        transition: 0.3s;
+    }
+
+    .navbar-nav.mx-auto .nav-link:hover,
+    .navbar-nav.mx-auto .nav-link.active {
+        color: var(--nav-hover-color);
+    }
+}
+
+.navbar-nav .dropdown-menu {
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+    margin-top: 0;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    left: 0;
+}
+
+.navbar-nav .dropdown:hover .dropdown-menu {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.dropdown-item {
+    padding: 0.75rem 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.dropdown-item:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    transform: translateX(5px);
+}
+
+/* Cart Dropdown Specific Styles */
+#cartDropdown {
+    min-width: 300px;
+    padding: 1rem;
+    left: 0;
+}
+
+#cartItems {
+    max-height: 200px;
+    left: 0;
+}
