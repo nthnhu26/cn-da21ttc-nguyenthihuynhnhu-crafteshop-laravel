@@ -65,8 +65,8 @@ return [
     |
     */
 
-    'timezone' => env('APP_TIMEZONE', 'UTC'),
-
+    //  'timezone' => env('APP_TIMEZONE', 'UTC'),
+    'timezone' => 'Asia/Ho_Chi_Minh',
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
@@ -122,5 +122,7 @@ return [
         'driver' => env('APP_MAINTENANCE_DRIVER', 'file'),
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
+
+
 
 ];

@@ -1,0 +1,99 @@
+ID,Name,Description,Short Description,Price,Quantity,Category ID,Weight,Dimensions,Material,Origin,Warranty,Status
+1,Bàn gỗ tự nhiên,"Bàn làm từ gỗ sồi tự nhiên, thiết kế hiện đại, bề mặt được xử lý chống xước và chịu nước.",Bàn làm việc hoặc trang trí,150.00,20,1,15.00,"120x60x75",Gỗ sồi,Việt Nam,12,in_stock
+2,Ghế gỗ cổ điển,"Ghế gỗ thiết kế cổ điển, phong cách sang trọng phù hợp với không gian nội thất hoài cổ.",Ghế phong cách cổ điển,100.00,15,1,10.00,"50x50x90",Gỗ sồi,Việt Nam,12,in_stock
+3,Tượng gỗ nghệ thuật,"Tượng gỗ được chạm khắc tinh xảo, mang phong cách nghệ thuật độc đáo, thích hợp làm quà tặng hoặc trang trí.",Tượng trang trí chạm khắc tinh tế,200.00,5,1,5.00,"30x30x60",Gỗ tự nhiên,Việt Nam,12,in_stock
+4,Bình gốm sứ,"Bình gốm sứ với họa tiết tinh tế, dùng để trang trí không gian nội thất hoặc làm quà tặng.",Bình trang trí bằng gốm,80.00,30,2,1.00,"20x20x30",Gốm sứ,Việt Nam,6,in_stock
+5,Chén gốm sứ,"Chén gốm sứ cao cấp với lớp men sáng bóng, bền bỉ và thích hợp cho mọi không gian bàn ăn.",Chén bàn ăn cao cấp,50.00,50,2,0.50,"10x10x5",Gốm sứ,Việt Nam,6,in_stock
+6,Túi da thật,"Túi xách làm từ da thật 100%, thiết kế thời trang và sang trọng, có độ bền cao.",Túi xách thời trang cao cấp,120.00,10,3,0.80,"30x15x25",Da thật,Việt Nam,12,in_stock
+7,Dây chuyền bạc,"Dây chuyền bạc thủ công, thiết kế tinh tế, phù hợp với mọi phong cách thời trang.",Dây chuyền bạc thủ công cao cấp,90.00,25,4,0.05,"5x5",Bạc,Việt Nam,12,in_stock
+8,Nhẫn vàng,"Nhẫn vàng 18k thiết kế độc đáo, mang phong cách sang trọng và giá trị cao.",Nhẫn vàng thiết kế cao cấp,300.00,8,4,0.02,"2x2",Vàng,Việt Nam,12,in_stock
+9,Gối thêu tay,"Gối trang trí với họa tiết thêu tay tỉ mỉ, tạo điểm nhấn cho không gian sống.",Gối trang trí thêu tinh tế,40.00,40,5,0.50,"40x40",Vải,Việt Nam,12,in_stock
+10,Khăn trải bàn,"Khăn trải bàn với họa tiết thêu hoa thanh lịch, làm nổi bật không gian bàn ăn.",Khăn trải bàn thêu hoa,30.00,35,5,0.30,"150x100",Vải,Việt Nam,12,in_stock
+11,Đèn trang trí,"Đèn trang trí làm từ gỗ, thiết kế độc đáo, mang lại không gian ấm cúng và phong cách.",Đèn gỗ trang trí nội thất,70.00,20,6,2.00,"30x30x60",Gỗ,Việt Nam,12,in_stock
+12,Tranh treo tường,"Tranh treo tường nghệ thuật với khung gỗ tự nhiên, phù hợp làm quà tặng hoặc trang trí.",Tranh nghệ thuật treo tường,150.00,12,6,1.50,"60x90",Gỗ,Việt Nam,12,in_stock
+13,Đồ chơi gỗ,"Đồ chơi làm từ gỗ tự nhiên, an toàn cho trẻ em và thân thiện với môi trường.",Đồ chơi an toàn từ gỗ,25.00,50,7,0.20,"15x15x5",Gỗ,Việt Nam,12,in_stock
+14,Búp bê vải,"Búp bê vải thủ công với thiết kế dễ thương, thích hợp làm quà tặng hoặc đồ chơi.",Búp bê vải thủ công dễ thương,35.00,30,7,0.15,"20x10",Vải,Việt Nam,12,in_stock
+15,Móc khóa kim loại,"Móc khóa kim loại với thiết kế độc đáo, chất liệu bền bỉ và phù hợp làm quà tặng nhỏ.",Móc khóa thiết kế độc đáo,15.00,100,8,0.05,"5x5",Kim loại,Việt Nam,12,in_stock
+16,Đồ trang trí kim loại,"Đồ trang trí làm từ kim loại với phong cách hiện đại, tạo điểm nhấn cho không gian sống.",Trang trí nội thất bằng kim loại,60.00,25,8,1.00,"20x20x30",Kim loại,Việt Nam,12,in_stock
+17,Khung ảnh gỗ,"Khung ảnh làm từ gỗ tự nhiên, thiết kế bền đẹp và phù hợp với mọi không gian.",Khung ảnh gỗ tự nhiên,45.00,15,1,0.80,"25x20",Gỗ,Việt Nam,12,in_stock
+18,Tượng gốm sứ,"Tượng gốm sứ nghệ thuật, được chế tác tinh xảo, mang lại nét độc đáo cho không gian.",Tượng gốm sứ cao cấp,120.00,10,2,1.00,"15x15x30",Gốm sứ,Việt Nam,12,in_stock
+19,Ví da,"Ví da thật với thiết kế thời trang, nhỏ gọn, phù hợp sử dụng hàng ngày.",Ví da thật cao cấp,80.00,20,3,0.20,"10x2x8",Da thật,Việt Nam,12,in_stock
+20,Dây chuyền vàng,"Dây chuyền vàng 24k, thiết kế sang trọng và tinh tế, mang lại sự đẳng cấp.",Dây chuyền vàng 24k cao cấp,500.00,5,4,0.03,"5x5",Vàng,Việt Nam,12,in_stock
+21,Túi vải,"Túi vải thêu tay tinh tế, thiết kế thời trang, phù hợp để đi dạo hoặc đi học.",Túi vải thêu tay đẹp,40.00,50,5,0.30,"30x25",Vải,Việt Nam,12,in_stock
+22,Đèn lồng,"Đèn lồng làm từ giấy cao cấp, mang phong cách truyền thống, phù hợp trang trí sự kiện.",Đèn lồng giấy trang trí,25.00,40,6,0.50,"20x20",Giấy,Việt Nam,12,in_stock
+23,Đồ chơi xếp hình,"Đồ chơi xếp hình gỗ với nhiều mảnh ghép an toàn, giúp trẻ phát triển tư duy.",Đồ chơi xếp hình an toàn,30.00,60,7,0.25,"15x15x5",Gỗ,Việt Nam,12,in_stock
+24,Gối ôm,"Gối ôm thêu hoa với chất liệu vải mềm mại, mang lại sự thoải mái và thẩm mỹ cao.",Gối ôm trang trí đẹp,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+25,Khung tranh kim loại,"Khung tranh bằng kim loại chắc chắn, thiết kế hiện đại phù hợp với nhiều loại tranh.",Khung tranh kim loại bền đẹp,70.00,15,8,1.00,"30x40",Kim loại,Việt Nam,12,in_stock
+26,Tượng gỗ phong thủy,"Tượng gỗ phong thủy chạm khắc tinh tế, mang lại may mắn và tài lộc cho gia chủ.",Tượng phong thủy chạm khắc,150.00,8,1,2.00,"20x20x30",Gỗ,Việt Nam,12,in_stock
+27,Chậu gốm sứ,"Chậu gốm sứ trang trí với thiết kế độc đáo, thích hợp để trồng cây hoặc trang trí.",Chậu gốm trang trí cây cảnh,60.00,25,2,1.50,"25x25x20",Gốm sứ,Việt Nam,12,in_stock
+28,Ví da handmade,"Ví da thủ công với thiết kế độc đáo, làm từ da thật, nhỏ gọn và tiện lợi.",Ví da handmade cao cấp,90.00,10,3,0.15,"10x2x8",Da thật,Việt Nam,12,in_stock
+29,Dây chuyền bạc handmade,"Dây chuyền bạc thủ công tinh xảo, mang phong cách sang trọng và độc đáo.",Dây chuyền bạc thủ công đẹp,120.00,5,4,0.05,"5x5",Bạc,Việt Nam,12,in_stock
+30,Đồ chơi gỗ xếp hình,"Đồ chơi gỗ xếp hình giúp trẻ phát triển kỹ năng logic và sáng tạo.",Đồ chơi gỗ xếp hình cho bé,35.00,50,7,0.20,"15x15x5",Gỗ,Việt Nam,12,in_stock
+31,Gối tựa lưng,"Gối tựa lưng thêu hoa tinh tế, chất liệu vải cao cấp, mang lại sự thoải mái.",Gối tựa lưng thêu đẹp,45.00,30,5,0.50,"40x40",Vải,Việt Nam,12,in_stock
+32,Đèn trang trí bằng giấy,"Đèn làm từ giấy nghệ thuật, thiết kế độc đáo, thích hợp trang trí không gian nội thất.",Đèn giấy trang trí hiện đại,35.00,25,6,0.80,"20x20",Giấy,Việt Nam,12,in_stock
+33,Đồ chơi gỗ thông minh,"Đồ chơi gỗ thông minh cho trẻ em, hỗ trợ phát triển tư duy logic và trí sáng tạo.",Đồ chơi gỗ thông minh,50.00,40,7,0.30,"15x15x5",Gỗ,Việt Nam,12,in_stock
+34,Khung ảnh kim loại,"Khung ảnh kim loại với thiết kế chắc chắn, phù hợp cho nhiều kích thước ảnh.",Khung ảnh kim loại cao cấp,60.00,20,8,1.00,"25x20",Kim loại,Việt Nam,12,in_stock
+35,Tượng gỗ phong thủy,"Tượng gỗ phong thủy tinh xảo, biểu tượng của tài lộc và thịnh vượng.",Tượng phong thủy gỗ đẹp,150.00,8,1,2.00,"20x20x30",Gỗ,Việt Nam,12,in_stock
+36,Chậu gốm sứ trang trí,"Chậu gốm sứ cao cấp, trang trí tinh tế, phù hợp cho các loại cây cảnh nhỏ.",Chậu gốm sứ đẹp,60.00,25,2,1.50,"25x25x20",Gốm sứ,Việt Nam,12,in_stock
+37,Ví da handmade,"Ví da handmade với đường may tỉ mỉ, mang phong cách hiện đại và tiện lợi.",Ví handmade từ da thật,90.00,10,3,0.15,"10x2x8",Da thật,Việt Nam,12,in_stock
+38,Dây chuyền bạc handmade,"Dây chuyền bạc được làm thủ công với họa tiết tinh tế, thích hợp làm quà tặng.",Dây chuyền bạc tinh tế,120.00,5,4,0.05,"5x5",Bạc,Việt Nam,12,in_stock
+39,Đồ chơi gỗ xếp hình,"Đồ chơi gỗ xếp hình nhiều mảnh, hỗ trợ phát triển trí não và kỹ năng phối hợp.",Đồ chơi gỗ phát triển tư duy,35.00,50,7,0.20,"15x15x5",Gỗ,Việt Nam,12,in_stock
+40,Gối ôm,"Gối ôm thêu hoa đẹp mắt, chất liệu mềm mại, thích hợp để nghỉ ngơi hoặc trang trí.",Gối ôm thêu tay cao cấp,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+41,Khung tranh gỗ,"Khung tranh gỗ tự nhiên, thiết kế bền đẹp và phù hợp cho nhiều phong cách trang trí.",Khung tranh gỗ tự nhiên,45.00,15,1,0.80,"30x40",Gỗ,Việt Nam,12,in_stock
+42,Tượng gốm sứ nghệ thuật,"Tượng gốm sứ với họa tiết nghệ thuật, thích hợp trang trí không gian nội thất.",Tượng gốm sứ cao cấp,120.00,10,2,1.00,"15x15x30",Gốm sứ,Việt Nam,12,in_stock
+43,Ví da thật,"Ví da thật cao cấp với thiết kế thời trang, nhỏ gọn, phù hợp sử dụng hàng ngày.",Ví da thật thời trang,80.00,20,3,0.20,"10x2x8",Da thật,Việt Nam,12,in_stock
+44,Dây chuyền vàng,"Dây chuyền vàng 24k, mang phong cách sang trọng và đẳng cấp, thích hợp làm quà tặng.",Dây chuyền vàng cao cấp,500.00,5,4,0.03,"5x5",Vàng,Việt Nam,12,in_stock
+45,Túi vải,"Túi vải thêu tay độc đáo, phù hợp để mang theo khi đi chơi hoặc đi học.",Túi vải thêu tay đẹp,40.00,50,5,0.30,"30x25",Vải,Việt Nam,12,in_stock
+46,Đèn lồng,"Đèn lồng trang trí bằng giấy thủ công, mang phong cách truyền thống và hiện đại.",Đèn lồng giấy nghệ thuật,25.00,40,6,0.50,"20x20",Giấy,Việt Nam,12,in_stock
+47,Đồ chơi xếp hình,"Đồ chơi gỗ xếp hình giúp trẻ phát triển kỹ năng sáng tạo và logic.",Đồ chơi gỗ an toàn,30.00,60,7,0.25,"15x15x5",Gỗ,Việt Nam,12,in_stock
+48,Gối ôm,"Gối ôm thêu hoa tinh tế, làm từ chất liệu mềm mại, mang lại sự thoải mái.",Gối ôm thêu đẹp,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+49,Khung tranh kim loại,"Khung tranh làm từ kim loại chắc chắn, thiết kế tinh tế và hiện đại.",Khung tranh kim loại đẹp,70.00,15,8,1.00,"30x40",Kim loại,Việt Nam,12,in_stock
+50,Tượng gỗ phong thủy,"Tượng gỗ phong thủy chạm khắc tỉ mỉ, biểu tượng cho tài lộc và may mắn.",Tượng phong thủy độc đáo,150.00,8,1,2.00,"20x20x30",Gỗ,Việt Nam,12,in_stock
+51,Chậu gốm sứ,"Chậu gốm sứ trang trí cây cảnh, thiết kế độc đáo và bền đẹp.",Chậu cây gốm sứ,60.00,25,2,1.50,"25x25x20",Gốm sứ,Việt Nam,12,in_stock
+52,Ví da handmade,"Ví da handmade với thiết kế thủ công độc đáo, làm từ da thật chất lượng cao.",Ví da thủ công cao cấp,90.00,10,3,0.15,"10x2x8",Da thật,Việt Nam,12,in_stock
+53,Dây chuyền bạc handmade,"Dây chuyền bạc thủ công với họa tiết tinh xảo, thích hợp làm quà tặng ý nghĩa.",Dây chuyền bạc thủ công,120.00,5,4,0.05,"5x5",Bạc,Việt Nam,12,in_stock
+54,Đồ chơi gỗ xếp hình,"Đồ chơi gỗ xếp hình nhiều mảnh, giúp trẻ phát triển trí tuệ và kỹ năng vận động.",Đồ chơi xếp hình gỗ,35.00,50,7,0.20,"15x15x5",Gỗ,Việt Nam,12,in_stock
+55,Gối ôm,"Gối ôm thêu hoa đẹp mắt, chất liệu vải mềm mại, phù hợp làm đồ trang trí hoặc sử dụng hàng ngày.",Gối ôm vải thêu,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+56,Khung tranh gỗ,"Khung tranh gỗ tự nhiên, thiết kế bền đẹp, lý tưởng cho các không gian nội thất.",Khung tranh gỗ cao cấp,45.00,15,1,0.80,"30x40",Gỗ,Việt Nam,12,in_stock
+57,Tượng gốm sứ nghệ thuật,"Tượng gốm sứ cao cấp, thiết kế tinh xảo, mang lại nét thẩm mỹ cho không gian.",Tượng gốm sứ trang trí,120.00,10,2,1.00,"15x15x30",Gốm sứ,Việt Nam,12,in_stock
+58,Ví da thật,"Ví da thật với thiết kế hiện đại, mang phong cách thời trang và tiện dụng.",Ví da thật cao cấp,80.00,20,3,0.20,"10x2x8",Da thật,Việt Nam,12,in_stock
+59,Dây chuyền vàng,"Dây chuyền vàng 24k được chế tác tinh xảo, mang đến sự sang trọng và giá trị cao.",Dây chuyền vàng sang trọng,500.00,5,4,0.03,"5x5",Vàng,Việt Nam,12,in_stock
+60,Túi vải,"Túi vải thêu tay thời trang, thiết kế thanh lịch và bền đẹp.",Túi vải thời trang,40.00,50,5,0.30,"30x25",Vải,Việt Nam,12,in_stock
+61,Đèn lồng,"Đèn lồng giấy thủ công, trang trí không gian với phong cách truyền thống và nghệ thuật.",Đèn lồng giấy đẹp,25.00,40,6,0.50,"20x20",Giấy,Việt Nam,12,in_stock
+62,Đồ chơi xếp hình,"Đồ chơi gỗ xếp hình, hỗ trợ trẻ phát triển tư duy logic và sáng tạo.",Đồ chơi gỗ an toàn,30.00,60,7,0.25,"15x15x5",Gỗ,Việt Nam,12,in_stock
+63,Gối ôm,"Gối ôm thêu hoa tinh tế, vải mềm mại, phù hợp để thư giãn hoặc trang trí.",Gối ôm thêu hoa,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+64,Khung tranh kim loại,"Khung tranh kim loại chắc chắn, thiết kế hiện đại, dễ dàng lắp đặt.",Khung tranh kim loại hiện đại,70.00,15,8,1.00,"30x40",Kim loại,Việt Nam,12,in_stock
+65,Tượng gỗ phong thủy,"Tượng gỗ phong thủy chạm khắc tinh tế, biểu tượng của tài lộc và thịnh vượng.",Tượng phong thủy gỗ,150.00,8,1,2.00,"20x20x30",Gỗ,Việt Nam,12,in_stock
+66,Chậu gốm sứ,"Chậu gốm sứ trang trí cây cảnh, thiết kế sang trọng và bền đẹp.",Chậu gốm sứ trang trí,60.00,25,2,1.50,"25x25x20",Gốm sứ,Việt Nam,12,in_stock
+67,Ví da handmade,"Ví da handmade với chất liệu da thật, đường may tỉ mỉ, thích hợp làm quà tặng.",Ví da thủ công cao cấp,90.00,10,3,0.15,"10x2x8",Da thật,Việt Nam,12,in_stock
+68,Dây chuyền bạc handmade,"Dây chuyền bạc thủ công tinh xảo, thích hợp để tôn thêm nét duyên dáng.",Dây chuyền bạc tinh tế,120.00,5,4,0.05,"5x5",Bạc,Việt Nam,12,in_stock
+69,Đồ chơi gỗ xếp hình,"Đồ chơi gỗ xếp hình giúp trẻ em phát triển tư duy và kỹ năng sáng tạo.",Đồ chơi gỗ phát triển trí tuệ,35.00,50,7,0.20,"15x15x5",Gỗ,Việt Nam,12,in_stock
+70,Gối ôm,"Gối ôm thêu tay cao cấp, mang lại sự thoải mái và tô điểm cho không gian sống.",Gối ôm thêu tay,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+71,Khung tranh gỗ,"Khung tranh gỗ tự nhiên, thiết kế bền chắc, phù hợp mọi phong cách nội thất.",Khung tranh gỗ tự nhiên,45.00,15,1,0.80,"30x40",Gỗ,Việt Nam,12,in_stock
+72,Tượng gốm sứ nghệ thuật,"Tượng gốm sứ trang trí độc đáo, được chế tác thủ công tinh xảo.",Tượng gốm nghệ thuật,120.00,10,2,1.00,"15x15x30",Gốm sứ,Việt Nam,12,in_stock
+73,Ví da thật,"Ví da thật cao cấp, thiết kế thời trang và bền bỉ, lý tưởng cho mọi dịp.",Ví da thật thời trang,80.00,20,3,0.20,"10x2x8",Da thật,Việt Nam,12,in_stock
+74,Dây chuyền vàng,"Dây chuyền vàng 24k sang trọng, thiết kế đơn giản nhưng tinh tế.",Dây chuyền vàng cao cấp,500.00,5,4,0.03,"5x5",Vàng,Việt Nam,12,in_stock
+75,Túi vải,"Túi vải thêu tay, thiết kế thanh lịch, dễ dàng phối hợp với nhiều trang phục.",Túi vải thêu tay thời trang,40.00,50,5,0.30,"30x25",Vải,Việt Nam,12,in_stock
+76,Đèn lồng,"Đèn lồng giấy với họa tiết thủ công đẹp mắt, thích hợp trang trí lễ hội hoặc tiệc.",Đèn lồng giấy trang trí,25.00,40,6,0.50,"20x20",Giấy,Việt Nam,12,in_stock
+77,Đồ chơi xếp hình,"Đồ chơi gỗ xếp hình an toàn, phù hợp với trẻ từ 3 tuổi trở lên.",Đồ chơi xếp hình sáng tạo,30.00,60,7,0.25,"15x15x5",Gỗ,Việt Nam,12,in_stock
+78,Gối ôm,"Gối ôm thêu tay mềm mại, tô điểm không gian sống của bạn với vẻ đẹp tinh tế.",Gối ôm vải cao cấp,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+79,Khung tranh kim loại,"Khung tranh kim loại sang trọng, thiết kế hiện đại phù hợp không gian sống.",Khung tranh kim loại sang trọng,70.00,15,8,1.00,"30x40",Kim loại,Việt Nam,12,in_stock
+80,Tượng gỗ phong thủy,"Tượng gỗ phong thủy đại diện cho bình an, tài lộc và thịnh vượng.",Tượng gỗ phong thủy độc đáo,150.00,8,1,2.00,"20x20x30",Gỗ,Việt Nam,12,in_stock
+81,Chậu gốm sứ,"Chậu gốm sứ cao cấp, hoàn hảo để trồng cây cảnh hoặc trang trí nhà cửa.",Chậu cây gốm sứ đẹp,60.00,25,2,1.50,"25x25x20",Gốm sứ,Việt Nam,12,in_stock
+82,Ví da handmade,"Ví da handmade tinh tế, kết hợp hoàn hảo giữa thời trang và sự tiện lợi.",Ví da handmade sang trọng,90.00,10,3,0.15,"10x2x8",Da thật,Việt Nam,12,in_stock
+83,Dây chuyền bạc handmade,"Dây chuyền bạc thiết kế tinh xảo, sản phẩm thủ công từ bạc nguyên chất.",Dây chuyền bạc đẹp,120.00,5,4,0.05,"5x5",Bạc,Việt Nam,12,in_stock
+84,Đồ chơi gỗ xếp hình,"Đồ chơi gỗ xếp hình, kích thích sáng tạo và phát triển trí tuệ trẻ nhỏ.",Đồ chơi xếp hình thông minh,35.00,50,7,0.20,"15x15x5",Gỗ,Việt Nam,12,in_stock
+85,Gối ôm,"Gối ôm thêu hoa, chất liệu vải mềm mại, tạo cảm giác dễ chịu khi sử dụng.",Gối ôm cao cấp,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+86,Khung tranh gỗ,"Khung tranh gỗ tự nhiên, thiết kế chắc chắn và sang trọng, phù hợp trang trí nội thất.",Khung tranh gỗ tự nhiên,45.00,15,1,0.80,"30x40",Gỗ,Việt Nam,12,in_stock
+87,Tượng gốm sứ nghệ thuật,"Tượng gốm sứ nghệ thuật, được chế tác thủ công tinh xảo, mang lại nét độc đáo cho không gian.",Tượng gốm sứ độc đáo,120.00,10,2,1.00,"15x15x30",Gốm sứ,Việt Nam,12,in_stock
+88,Ví da thật,"Ví da thật với thiết kế hiện đại, chất liệu cao cấp, bền bỉ và tiện lợi.",Ví da thời trang cao cấp,80.00,20,3,0.20,"10x2x8",Da thật,Việt Nam,12,in_stock
+89,Dây chuyền vàng,"Dây chuyền vàng 24k, thiết kế tinh tế, mang lại sự sang trọng và đẳng cấp.",Dây chuyền vàng sang trọng,500.00,5,4,0.03,"5x5",Vàng,Việt Nam,12,in_stock
+90,Túi vải,"Túi vải thêu tay với họa tiết độc đáo, mang lại sự thanh lịch và tiện dụng.",Túi vải thêu tay đẹp,40.00,50,5,0.30,"30x25",Vải,Việt Nam,12,in_stock
+91,Đèn lồng,"Đèn lồng giấy thủ công, phù hợp trang trí không gian sống hoặc các sự kiện lễ hội.",Đèn lồng giấy đẹp,25.00,40,6,0.50,"20x20",Giấy,Việt Nam,12,in_stock
+92,Đồ chơi xếp hình,"Đồ chơi gỗ xếp hình, hỗ trợ phát triển tư duy sáng tạo và kỹ năng logic cho trẻ.",Đồ chơi gỗ sáng tạo,30.00,60,7,0.25,"15x15x5",Gỗ,Việt Nam,12,in_stock
+93,Gối ôm,"Gối ôm thêu hoa thủ công, làm từ chất liệu cao cấp, mang lại sự thoải mái và phong cách.",Gối ôm thêu hoa tinh tế,50.00,20,5,0.80,"40x60",Vải,Việt Nam,12,in_stock
+
+"Bàn trà gỗ","Bàn trà làm từ gỗ tự nhiên, thiết kế đơn giản nhưng tinh tế, phù hợp với không gian phòng khách.","Bàn trà gỗ tự nhiên",120,10,1,12,"80x40x45","Gỗ tự nhiên","Việt Nam",12
+"Giá sách gỗ","Giá sách gỗ thiết kế hiện đại, giúp tổ chức sách vở gọn gàng và đẹp mắt.","Giá sách gỗ tự nhiên",250,8,1,25,"100x30x180","Gỗ sồi","Việt Nam",12
+"Đèn bàn gỗ","Đèn bàn làm từ gỗ tự nhiên, thiết kế độc đáo, mang lại ánh sáng ấm áp cho không gian làm việc.","Đèn bàn gỗ tự nhiên",75,20,1,3,"30x30x50","Gỗ","Việt Nam",12
+"Thùng gỗ đựng đồ","Thùng gỗ đa năng, có thể sử dụng để đựng đồ hoặc trang trí, thiết kế bền đẹp.","Thùng gỗ tự nhiên",90,15,1,10,"60x40x40","Gỗ tự nhiên","Việt Nam",12
